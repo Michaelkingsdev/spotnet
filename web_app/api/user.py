@@ -117,8 +117,8 @@ async def subscribe_to_notification(
     This endpoint subscribes a user to notifications by linking their telegram ID to their wallet.
 
     ### Parameters:
-    - **telegram_id**: The Telegram ID of the user.
-    - **wallet_id**: The wallet ID of the user.
+    - **telegram_id**: The Telegram id of the user.
+    - **wallet_id**: The wallet id of the user.
 
     ### Returns:
     Success status of the subscription.
